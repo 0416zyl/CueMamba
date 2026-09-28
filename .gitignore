@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+.idea/
+*.egg-info/
+dist/
+build/
+*.pth
+*.pt
+*.ckpt
+data/
+nnUNet_raw/
+nnUNet_preprocessed/
+nnUNet_trained_models/

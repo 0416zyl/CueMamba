@@ -1,0 +1,5 @@
+torch>=1.12.0
+numpy>=1.21.0
+nibabel>=4.0.0
+mamba-ssm>=1.0.0
+causal-conv1d>=1.0.0
